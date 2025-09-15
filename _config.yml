@@ -1,0 +1,8 @@
+title: My Portfolio
+name: CJ Ankamah
+email: Yasukewashere@gmail.com
+
+Collections: 
+  Design:
+    output: true
+    permalink: /:collection/:path/
